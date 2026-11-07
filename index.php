@@ -9,7 +9,7 @@
  * @link      http://github.com/Vlgc/
  * @license   BSD License
  */
-namespace Vlgc\Krpano;
+namespace DeadlyVenomUser\venos;
 use \xmlWriter as Writer;
 
 class Pano
